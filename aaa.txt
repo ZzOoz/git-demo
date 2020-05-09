@@ -3,3 +3,6 @@ aaaaab
 bbb
 
 third
+
+
+我使用了git checkout -- aaa.txt // 撤销修改
